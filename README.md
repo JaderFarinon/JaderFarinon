@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/website?label=QuickTricks.com.br&style=for-the-badge&url=https://quicktricks.com.br/)](https://quicktricks.com.br)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjUDCcOLs9-iaTkwL_UD_Og)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JaderFarinon&show_icons=true&theme=dracula&count_private=true)
+![Jader Farinon GitHub stats](https://github-readme-stats.vercel.app/api?username=JaderFarinon&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,12 +17,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/SQL (Oracle/MySql)-red?style=for-the-badge&logo=oracle&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaderFarinon&layout=compact)](https://github.com/JaderFarinon/github-readme-stats)
 
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
 
 
