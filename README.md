@@ -15,7 +15,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/SQL (Oracle/MySql)-red?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/BootStrap-20232A?style=for-the-badge&logo=boostrap&logoColor=61DAFB" />
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaderFarinon&layout=compact)](https://github.com/JaderFarinon/github-readme-stats)
